@@ -4,8 +4,14 @@ The Apple's official code for embedding Live Photo captured via iOS
 # Function
 To embed an Apple live photo captured by supported iOS devices into a webpage.
 
+# Contents
+1) livephotoskit.js  
+2) original.html.code
+
 # How to use
-It is very simple to use this code. Just paste this code into the webpage you want to embed the live photo and make some modifction according to your needs.
+It is very simple to use this program.  
+1) Upload the livephotoskit.js file to a directory.  
+2) Just paste this code into the webpage you want to embed the live photo and make some modifction according to your needs. Make sure the all the source directory correct.
 
 # Optional settings
 1) data-photo-time: The timestamp from the beginning of the provided video component, at which the still photo was captured.  
